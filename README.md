@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krish902&show_icons=true&locale=en&layout=compact" alt="krish902" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krish902&show_icons=true&locale=en" alt="krish902" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krish902&" alt="krish902" /></p>
