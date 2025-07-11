@@ -5,7 +5,7 @@
 
 - 🔭 I have competed bachelors in **Computer Engineering**
 
-- 🌱 I have worked on **Fraud Detection in Credit Card and Audio-to-text generator**
+- 🌱 I have worked on the topics like **Fraud Detection, text-to-audio and audio-to-text generator**
 
 - 👨‍💻 All of my projects are available at [github.com/krish902](github.com/krish902)
 
