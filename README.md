@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish902&label=Profile%20views&color=0e75b6&style=flat" alt="krish902" /> </p>
 
-- 🔭 I’m currently studying **Computer Engineering**
+- 🔭 I have competed bachelors in **Computer Engineering**
 
-- 🌱 I’m currently working on **Fraud Detection in Credit Card**
+- 🌱 I have worked on **Fraud Detection in Credit Card and Audio-to-text generator**
 
 - 👨‍💻 All of my projects are available at [github.com/krish902](github.com/krish902)
 
-- 💬 Ask me about **Tensorflow, Keras, BERT, LSTM, Bi-LSTM**
+- 💬 Ask me about **Tensorflow, Keras, BERT, SQL, Pandas, Python, Data Modelling**
 
 - 📫 How to reach me **krishbhikadiya902@gmail.com**
 
