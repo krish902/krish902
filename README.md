@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/krish902](github.com/krish902)
 
-- 💬 Ask me about **Tensorflow, Keras, BERT, SQL, Pandas, Python, Data Modelling**
+- 💬 Ask me about **Pyhton, BERT, SQL, Pandas, Data Science, Javascript**
 
 - 📫 How to reach me **krishbhikadiya902@gmail.com**
 
