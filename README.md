@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krish Bhikadiya</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate AI & ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish902&label=Profile%20views&color=0e75b6&style=flat" alt="krish902" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/krish902](github.com/krish902)
 
-- 💬 Ask me about **Pyhton, BERT, SQL, Pandas, Numpy, Matplotlib, Scikit-learn, Data Science**
+- 💬 Ask me about **Python, BERT, SQL, Pandas, Numpy, Matplotlib, Scikit-learn, Data Science**
 
 - 📫 How to reach me **krishbhikadiya902@gmail.com**
 
